@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selengull
 - 👀 I’m interested in software
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C, C# and Java
 - 📫 If you want to tell me something you can send me e-mail, selengul913@gmail.com
 
 <!---
