@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-* 🎓 **4th-year Computer Engineering** student at **Namık Kemal University**
+* **Computer Engineer**
 * 🧠 Passionate about **Artificial Intelligence** and **Frontend Development**
 * 📊 Specializing in **AI-driven Dashboards** using **Python, Dash, and Plotly**
 * 👁️ Currently working on **Computer Vision** projects with **OpenCV**
