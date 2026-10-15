@@ -1,7 +1,7 @@
 # 🚀 About Me
 
-* **Computer Engineer**
-* 🧠 Passionate about **Artificial Intelligence** and **Backend Development**
+* **Jr. Computer Engineer**
+* 🧠 Passionate about **Artificial Intelligence**
 * 📊 Specializing in **AI-driven Dashboards** using **Python, Dash, and Plotly**
 * 👁️ Currently working on **Computer Vision** projects with **OpenCV**
 * 🎾 Outside of coding, I'm a tennis enthusiast and a gym-goer.
