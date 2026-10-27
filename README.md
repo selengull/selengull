@@ -9,10 +9,7 @@ I build AI-powered tools — from interactive data dashboards to computer vision
 - 🤖 Exploring **LLM agents** for forecasting and data analysis
 - 🌱 Open to new opportunities in AI / Data / Software Engineering
 - 🎾 Outside of coding: tennis and the gym
-
-<p align="left">
-  <a href="mailto:selengul913@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+- 📫 Reach me: [selengul913@gmail.com](mailto:selengul913@gmail.com)
 
 ---
 
