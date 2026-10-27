@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34013039/README.md)
-
 # Hi, I'm Selen 👋
 
 **Computer Engineer** · B.Sc. in Computer Engineering, Tekirdağ Namık Kemal University  
